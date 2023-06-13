@@ -36,12 +36,15 @@ Polymorphism:
 
 Abstraction:
 
-    Abstraction focuses on defining the essential features and behaviors of an object while hiding unnecessary details.
-    Abstract classes cannot be instantiated, while interfaces define a contract that implementing classes must fulfill.
+    Abstraction focuses on defining the essential features and behaviors of an object 
+    while hiding unnecessary details.
+    Abstract classes cannot be instantiated, while interfaces define a contract that implementing classes 
+    must fulfill.
 
 Autoloading and Namespaces:
 
-    Autoloading eliminates the need to manually include class files by defining a mapping between class names and file paths.
+    Autoloading eliminates the need to manually include class files by defining a mapping between 
+    class names and file paths.
     Namespaces provide a way to organize classes into logical groups and prevent naming conflicts.
 
     WELCOME TO LARAVEL
@@ -50,17 +53,18 @@ Autoloading and Namespaces:
 
         MVC is a software architectural pattern used in web development.
         It separates the application logic into three components: the Model, View, and Controller.
-        The Model represents the data and business logic, the View is responsible for displaying the user interface,
-        and the Controller handles the user's requests and updates the Model and View accordingly.
+        The Model represents the data and business logic, the View is responsible for displaying 
+        the user interface, and the Controller handles the user's requests and updates
+        the Model and View accordingly.
 
 2. Benefits of MVC:
 
-        Separation of concerns: MVC promotes a clear separation between the different aspects of an application,
-        making it easier to maintain and modify.
+        Separation of concerns: MVC promotes a clear separation between the different aspects of 
+        an application, making it easier to maintain and modify.
         Code reusability: With a well-structured MVC architecture, components can be reused across
         different parts of the application.
-        Testability: The separation of concerns facilitates unit testing and enables developers to test individual 
-        components in isolation.
+        Testability: The separation of concerns facilitates unit testing and enables developers to 
+        test individual components in isolation.
 
 3. Understanding Laravel:
 
@@ -116,8 +120,8 @@ Autoloading and Namespaces:
     d. Views:
     
         Views are responsible for presenting the user interface to the user.
-        Laravel uses the Blade templating engine, which allows you to create reusable templates with dynamic content.
-        Views are stored in the resources/views directory.
+        Laravel uses the Blade templating engine, which allows you to create reusable templates
+        with dynamic content. Views are stored in the resources/views directory.
 
     e. Migrations:
     
@@ -126,12 +130,15 @@ Autoloading and Namespaces:
         and columns using migration files.
 
     f. Eloquent ORM:
-        Laravel's Eloquent ORM (Object-Relational Mapping) provides a convenient way to interact with the database using PHP syntax.
-        It allows you to define relationships between models and perform database operations with ease.
+    
+       Laravel's Eloquent ORM (Object-Relational Mapping) provides a convenient way to interact
+       with the database using PHP syntax.
+       It allows you to define relationships between models and perform 
+       database operations with ease.
 
-        Retrieving Data with Eloquent ORM:
+       Retrieving Data with Eloquent ORM:
 
-        Laravel's Eloquent ORM provides a fluent query builder and an easy-to-use syntax for database operations.
+       Laravel's Eloquent ORM provides a fluent query builder and an easy-to-use syntax for database operations.
 
         EXAMPLE:
 

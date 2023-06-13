@@ -9,14 +9,16 @@ PHP Object oriented Programming
 OOP CONCEPTS (OBJECT ORIENTED PROGRAMMING)
 Classes and Objects:
 
-    A class is a blueprint for creating objects. It defines the properties and methods that objects of that class will have.
+    A class is a blueprint for creating objects. It defines the properties and methods that objects of
+    that class will have.
     An object is an instance of a class, representing a specific entity with its own state and behavior.
 
 Encapsulation:
 
-    Encapsulation is the principle of bundling data (properties) and related behaviors (methods) together in a class.
-    It allows for data hiding and protects the internal state of an object, providing controlled access through public, private,
-    and protected visibility modifiers.
+    Encapsulation is the principle of bundling data (properties) and related behaviors (methods) 
+    together in a class.
+    It allows for data hiding and protects the internal state of an object, providing controlled 
+    access through public, private, and protected visibility modifiers.
 
 Inheritance:
 
